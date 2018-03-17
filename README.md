@@ -1,2 +1,4 @@
-# break-glass-with-resonant-frequency
+# Break Glass with Resonant Frequency
+
 Breaking A Wine Glass By Detecting Resonant Frequency in Python
+
